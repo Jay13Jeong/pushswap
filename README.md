@@ -1,5 +1,5 @@
 # pushswap
-my sort algorithm
+greedy algorithm
 
 <hr>
 <h1>How to use</h1>
